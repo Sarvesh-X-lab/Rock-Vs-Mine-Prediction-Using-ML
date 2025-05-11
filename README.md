@@ -5,7 +5,7 @@ Rock Vs Mine Prediction is a machine learning project that classifies sonar sign
 
 **📷Pictorial Generic Diagram**
 
-<img src="g1.png" alt="Match Analysis" width="800"/>
+<img src="g1.png" alt="Match Analysis" width="500"/>
 
 **📊 Features**
 
@@ -33,7 +33,7 @@ Used accuracy_score from scikit-learn to evaluate model performance
 
 **🏢 Workflow Diagram**
 
-<img src="g2.png" alt="Match Analysis" width="800"/>
+<img src="g2.png" alt="Match Analysis" width="500"/>
 
 ---
 
