@@ -113,4 +113,4 @@ LinkedIn: [Sarvesh Chavan](https://linkedin.com/in/sarvesh-chavan)
 
 **TO DOWNLOAD THE PROJECT :-**
 
-[SONAR_Rock_VS_Mine_Prediction_Using_ML.ipynb](https://drive.google.com/file/d/1U4U9c5_zmMCFWEUb2TkFC2GK2IRFomp4/view?usp=sharing)
+[SONAR_Rock_VS_Mine_Prediction_Using_ML.ipynb](https://drive.google.com/file/d/1sw0f0Iz2LqWCVOyGaAGAZ__tkE54W3q3/view?usp=sharing)
